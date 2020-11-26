@@ -10,11 +10,13 @@ body{
 }
 /* Columns */
 .col { flex-basis: 0; flex-grow: 1; max-width: 100%;}
+.d-none {display: none !important;}
 
 /*Flex*/
-.d-flex{
-    display: flex !important;
-}
-.flex-row{
-    flex-direction: row !important;
+.d-flex{ display: flex !important;}
+.flex-row{flex-direction: row !important;}
+
+@media (min-widht: 768px){
+    /* Display */
+    .d-md-block {display: block !important;}
 }
