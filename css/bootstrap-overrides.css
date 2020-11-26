@@ -1,0 +1,55 @@
+/* Body */
+body{font-family: "Open Sans", sans-serif!important;}
+
+/* Backgound Colors*/
+.bg-primary{background-color:#a597e7 !important;}
+.bg-secondary{background-color:#6c757d !important;}
+.bg-sucess{background-color:#b5d56a !important;}
+.bg-info{background-color:#84bed6 !important;}
+.bg-warning{background-color:#f0c24b !important;}
+.bg-danger{background-color:#ea7066 !important;}
+.bg-light{background-color:#f8f9fa !important;}
+.bg-dark{background-color:#343a40 !important;}
+.bg-white{background-color:#fff !important;}
+.bg-transparent{background-color:transparent !important;}
+
+/* Text Colors*/
+.text-primary{color:#a597e7 !important;}
+.text-secondary{color:#6c757d !important;}
+.text-sucess{color:#b5d56a !important;}
+.text-info{color:#84bed6 !important;}
+.text-warning{color:#f0c24b !important;}
+.text-danger{color:#ea7066 !important;}
+.text-light{color:#f8f9fa !important;}
+.text-dark{color:#343a40 !important;}
+.text-white{color:#fff !important;}
+.text-transparent{background-color:transparent !important;}
+
+/* Button Colors*/
+.btn-primary{color:#a597e7 !important;}
+.btn-secondary{color:#6c757d !important;}
+.btn-sucess{color:#b5d56a !important;}
+.btn-info{color:#84bed6 !important;}
+.btn-warning{color:#f0c24b !important;}
+.btn-danger{color:#ea7066 !important;}
+.btn-light{color:#f8f9fa !important;}
+.btn-dark{color:#343a40 !important;}
+.btn-white{color:#fff !important;}
+.btn-transparent{color:transparent !important;}
+.btn-cozy{background-color:#ea77ad !important} /* Not a Boostrap selector*/
+
+/* Border Colors*/
+.border-primary{color:#a597e7 !important;}
+.border-secondary{color:#6c757d !important;}
+.border-sucess{color:#b5d56a !important;}
+.border-info{color:#84bed6 !important;}
+.border-warning{color:#f0c24b !important;}
+.border-danger{color:#ea7066 !important;}
+.border-light{color:#f8f9fa !important;}
+.border-dark{color:#343a40 !important;}
+.border-white{color:#fff !important;}
+.border-transparent{color:transparent !important;}
+.border-cozy{background-color:#ea77ad !important} /* Not a Boostrap selector*/
+
+/* Shadows */
+.shadow { box-shadow: 0.15rem 0.15rem 0 rgba(0, 0, 0, 0.1)!important; }
