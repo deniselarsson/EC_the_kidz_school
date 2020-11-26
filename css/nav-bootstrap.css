@@ -15,7 +15,8 @@
     line-height: 1.5;
 }
 
-@media (min-widht: 768px){
+@media (min-width: 768px){
     /* Display */
     .d-md-flex { display: flex !important }
+    .d-md-none { display: none !important }
 }
