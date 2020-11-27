@@ -9,3 +9,8 @@ nav img { max-width: 130px; }
     top:-8px!important;
     right: -8px!important;
 }
+
+.nav-icon {
+    width: 35px;
+    line-height: 35px;
+}

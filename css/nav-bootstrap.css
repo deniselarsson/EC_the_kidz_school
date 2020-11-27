@@ -1,5 +1,7 @@
+/* Flex */
 .justify-content-beetween { justify-content: space-between !important }
 .align-items-center { align-items: center !important }
+.flex-row-reverse { flex-direction: row-reverse !important;}
 
 /* Padding */
 .p-3 { padding:1rem !important }
@@ -11,6 +13,8 @@
 .mr-auto, .mx-auto { margin-left: auto !important }
 .mr-2,.mx-2{margin-right: .5rem!important;}
 .mr-2,.mx-2{margin-left: .5rem!important;}
+.mr-3,.mx-3{margin-right: 1rem!important;}
+.mr-3,.mx-3{margin-left: 1rem!important;}
 
 
 /* Buttons */
@@ -38,6 +42,15 @@
 /* Position */
 .position-relative { position: relative !important;}
 .position-absolute { position: absolute !important;}
+
+ /* Display */
+.d-block {display: block !important;}
+
+/* Links */
+.text-decoration-none { text-decoration: none!important; }
+
+/* Text */
+.text-center { text-align: center !important; }
 
 @media (min-width: 768px){
     /* Display */
