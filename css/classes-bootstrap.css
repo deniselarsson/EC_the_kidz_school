@@ -1,7 +1,7 @@
 /* Margin & Padding */
-.p-4 { padding: 1.5rem !important }
-.mt-2, .my-2 {margin-top: 0.5rem !important }
-.mb-2, .my-2 {margin-bottom: 0.5rem !important }
+.p-4 { padding:1.5rem!important }
+.mt-2, .my-2 { margin-top: 0.5rem!important }
+.mb-2, .my-2 {margin-bottom: 0.5rem!important }
 
 
 /* CTA Button */
@@ -12,10 +12,14 @@
     border-radius: 0.3rem;
 }
 
+/* Text Formatting */
+.text-uppercase { text-transform: uppercase!important; }
+
+
 /* Card Direction */
 @media (min-width: 576px) {
     .flex-sm-row {
-        -ms-flex-direction: row !important;
-        flex-direction: row !important;
+        -ms-flex-direction: row!important;
+        flex-direction: row!important;
     }
 }
