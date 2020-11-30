@@ -17,7 +17,7 @@
 
 /* Screen Sizes */
 @media (min-width: 576px){
-    #feature-list { width: 80% !important; }
+    #feature-list { width: 80%!important; }
 }
 
 @media (min-width: 1024px){

@@ -6,7 +6,7 @@
 
 /* Padding */
 .p-3 { padding:1rem !important }
-.pt-2,.py-2{padding-bottom:.5rem !important}
+.pb-2,.py-2{padding-bottom:.5rem !important}
 .pt-2,.py-2{padding-top:.5rem !important}
 
 /* Margin*/
@@ -16,8 +16,9 @@
 .ml-2,.mx-2{margin-left: .5rem!important}
 .mr-3,.mx-3{margin-right: 1rem!important}
 .ml-3,.mx-3{margin-left: 1rem!important}
-.mr-5,.mx-5{margin-right: 3rem!important}
 .ml-5,.mx-5{margin-left: 3rem!important}
+.mr-5,.mx-5{margin-right: 3rem!important}
+
 
 
 /* Buttons */
